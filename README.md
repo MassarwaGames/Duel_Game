@@ -27,9 +27,7 @@ This action-packed retro game features health stats and a visually stunning Wild
 ---
 
 ## 🎨 Screenshots
-![gameplay](assets/pictures/screenshot 2024-12-03 004153.png)
-![Wild West Background](assets/background.png)
-
+![gameplay](assets/pictures/screenshot2024-12-03004153.png)
 ---
 
 ## 🚀 Try It Here!
