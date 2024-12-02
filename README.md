@@ -27,7 +27,7 @@ This action-packed retro game features health stats and a visually stunning Wild
 ---
 
 ## 🎨 Screenshots
-(.Assets/Pictures/Screenshot 2024-12-03 004153.png)
+*(.Assets/Pictures/Screenshot 2024-12-03 004153.png)*
 
 ---
 
