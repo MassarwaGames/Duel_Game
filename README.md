@@ -2,8 +2,7 @@
 
 ## 🎯 About the Game
 Challenge your friends to a **high-stakes 2D duel**! Control your player, fire bullets, and use strategy to win. 
-This action-packed retro game features health stats and a visually stunning Wild West 
-background for an immersive experience.
+This action-packed retro game features health stats and a visually stunning Wild West background for an immersive experience.
 
 ---
 
@@ -12,7 +11,7 @@ background for an immersive experience.
   - Player 1 uses `WASD` for movement and `Space` to shoot.
   - Player 2 uses `IJKL` for movement and `Enter` to shoot.
 - **Health system**: Each player’s health is displayed on-screen.
-- **Victory condition**: Game ends when one player's health is depleted, with a stylish win message displayed.
+- **Victory condition**: The game ends when one player's health is depleted, with a stylish win message displayed.
 - **Fancy background**: A visually appealing Wild West-themed arena sets the stage for an epic duel.
 
 ---
@@ -33,22 +32,22 @@ background for an immersive experience.
 ---
 
 ## 🚀 Try It Here!
-Itch.io game link: `<link>`  
-[itch.io](https://blackeswadeh.itch.io/duel-game-assignment3)
+Itch.io game link: [Duel Game Assignment 3](https://blackeswadeh.itch.io/duel-game-assignment3)
 
 ---
 
 ## 📂 Project Structure
-- **Scripts**:
-  - `PlayerShooter.cs`: Handles player shooting mechanics.
-  - `PlayerHealth.cs`: Tracks and updates health for each player.
-  - `GameManager.cs`: Manages game flow and win condition.
-  - `Bullet.cs`: Controls bullet behavior.
-- **Assets**:
-  - **Prefabs**:
-    - `Player`: The player object with movement and shooting scripts.
-    - `Bullet`: The bullet prefab with collision detection.
-  - **Background**: A visually appealing Wild West sprite for the game arena.
+### **Scripts**
+- `PlayerShooter.cs`: Handles player shooting mechanics.
+- `PlayerHealth.cs`: Tracks and updates health for each player.
+- `GameManager.cs`: Manages game flow and win condition.
+- `Bullet.cs`: Controls bullet behavior.
+
+### **Assets**
+- **Prefabs**:
+  - `Player`: The player object with movement and shooting scripts.
+  - `Bullet`: The bullet prefab with collision detection.
+- **Background**: A visually appealing Wild West sprite for the game arena.
 
 ---
 
@@ -61,3 +60,4 @@ Itch.io game link: `<link>`
 
 ## 🏆 Credits
 Created as part of a game development assignment. Special thanks to Unity's tools and resources for enabling this project.
+
